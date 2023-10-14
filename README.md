@@ -123,5 +123,5 @@ Final weights (hidden to output):
  [[-9.2992654 ]
  [ 7.18663238]]
 ```
-** RESULT**
+**RESULT**
 Thus, the Perceptron for classification using Python has been implementation and successfully executed.
