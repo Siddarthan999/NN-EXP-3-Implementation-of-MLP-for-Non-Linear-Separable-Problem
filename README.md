@@ -111,6 +111,7 @@ print("Final weights (input to hidden):\n", weights_input_hidden)
 print("Final weights (hidden to output):\n", weights_hidden_output)
 ```
  **OUTPUT** 
+```
 Input: [0 0], Predicted Output: [0.258014]
 Input: [0 1], Predicted Output: [0.69172371]
 Input: [1 0], Predicted Output: [0.68877368]
@@ -121,5 +122,6 @@ Final weights (input to hidden):
 Final weights (hidden to output):
  [[-9.2992654 ]
  [ 7.18663238]]
+```
 ** RESULT**
 Thus, the Perceptron for classification using Python has been implementation and successfully executed.
